@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jurgerm
 - 👀 I’m interested in JavaScript, Node.js, React.js; HTML, CSS; SQL.
-- 🌱 I’m currently learning FrontEnd (JavaScript, Node.js, React.js; HTML, CSS; SQL).
+- 🌱 I’m currently learning FrontEnd and BackEnd: HTML, CSS, JavaScript, ReactJS, API, NodeJS, ExpressJS, MySQL, MongoDB, Bootstrap, Bulma, React Bulma Components, Postman, Browser debugging.
 - 💞️ I’m looking to collaborate on JavaScript, Node.js, React.js; HTML, CSS; SQL.
 - 📫 How to reach me jurgitagermanaviciene@gmail.com
 <!---
